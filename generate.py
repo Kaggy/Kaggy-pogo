@@ -20,6 +20,11 @@ DEFAULT_TIMEZONE = "Europe/Zurich"
 INCLUDE = {
     "community-day": "🌟",
     "pokemon-go-fest": "🎉",
+    "raid-hour": "🚨",
+    "raid-battles: "⚔️",
+    "raid-day": "⚔️",
+    "max-mondays": "🚨",
+    "pokemon-spotlight-hour": "🔦",
 }
 
 # Default duration when an event has no end time.
