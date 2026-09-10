@@ -15,14 +15,14 @@ OUTPUT = Path(__file__).parent / "public" / "calendar.ics"
 CALENDAR_NAME = "Pokémon GO Events"
 
 # Timezone the feed is pinned to. Override with --tz or the POGO_TZ env var.
-DEFAULT_TIMEZONE = "Europe/Zurich"
+DEFAULT_TIMEZONE = "Asia/Tokyo"
 
 INCLUDE = {
     "community-day": "🌟",
     "pokemon-go-fest": "🎉",
     "raid-hour": "🚨",
-    "raid-battles: "⚔️",
-    "raid-day": "⚔️",
+    "raid-battles: "🗡️",
+    "raid-day": "🗡️",
     "max-mondays": "🚨",
     "pokemon-spotlight-hour": "🔦",
 }
