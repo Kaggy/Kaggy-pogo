@@ -21,7 +21,7 @@ INCLUDE = {
     "community-day": "🌟",
     "pokemon-go-fest": "🎉",
     "raid-hour": "🚨",
-    "raid-battles: "🗡️",
+    "raid-battles": "🗡️", 
     "raid-day": "🗡️",
     "max-mondays": "🚨",
     "pokemon-spotlight-hour": "🔦",
